@@ -28,6 +28,11 @@
 Using multiproc.sh with socks4 on a vps
 ![](https://i.imgur.com/KLJIZs8.png)
 
+
+## Defensive alternative
+
+For authorized security testing and defense hardening (Java + login/search/access ports), see `JAVA_CC_DEFENSE.md`.
+
 ## Install
 
     pip3 install requests pysocks
